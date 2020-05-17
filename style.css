@@ -1,0 +1,47 @@
+      body {
+          margin: 0;
+          background: #1B1464;
+      }
+
+      @font-face {
+          font-family: baloo;
+          src: url(BalooDa2-Regular.ttf);
+      }
+
+      @font-face {
+          font-family: galada;
+          src: url(Galada-Regular.ttf);
+      }
+
+      .main {
+          margin: .8rem;
+      }
+
+      .caption {
+          font-size: 2.5rem;
+          font-weight: bold;
+          color: #0be881;
+      }
+
+      .sub {
+          margin: .8rem;
+          font-family: baloo;
+      }
+
+      .subCap {
+          font-size: 1.5rem;
+          color: #0984e3;
+      }
+
+      .sub p {
+          font-size: 1rem;
+          margin-left: 1.5rem;
+          color: #2ecc71;
+      }
+
+      .sub a {
+          color: #e84393;
+          text-decoration: none;
+          font-family: galada;
+          margin-left: .8rem;
+      }
